@@ -1,3 +1,5 @@
+//problem: http://codeforces.com/contest/1079/problem/B
+
 //There are some misleading sayings in the statement.
 //What you need to is to find the minimum row and column as I did by simple calculation
 //then find the number of places you need to fill up with '*'.
